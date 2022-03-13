@@ -10,6 +10,18 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# IntelliJ
+.idea/*
+banking-account/.idea/*
+banking-account/account_cmd/.idea/*
+banking-account/account_common/.idea/*
+banking-account/account_query/.idea/*
+cqrs-es/cqrs_core/.idea/*
+
+# build archives
+
+*target/
+
 # Package Files #
 *.jar
 *.war
